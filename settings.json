@@ -1,0 +1,13 @@
+{
+    "editor.formatOnPaste": true,
+    "workbench.colorCustomizations": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "prettier.jsxSingleQuote": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+}
